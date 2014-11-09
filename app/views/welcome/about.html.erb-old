@@ -1,0 +1,12 @@
+<h1>About Bloccit</h1>
+<p>Created by: Me</p>
+<p>Created by: <%= my_name %></p>
+
+<p>Find me in app/views/welcome/about.html.erb or here...</p>
+
+
+    <footer>
+        <a href="http://twitter.com/manofcolorado"><img src="img/twitter-wrap.png" alt="Twitter Logo" class="social-icon"></a>
+        <a href="http://facebook.com/fernando.ramoslopez.982"><img src="img/facebook-wrap.png" alt="Facebook Logo" class="social-icon"></a>
+      <p>&#169;  2014 Fernando Ramos</p>
+    </footer>
