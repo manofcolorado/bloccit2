@@ -55,6 +55,9 @@ gem 'mini_magick'
 # Mocks make testing and integrating a breeze.
 gem 'fog'
 
+# will_paginate is a pagination library that integrates with Ruby on Rails, Sinatra, Merb, DataMapper and Sequel.
+gem 'will_paginate', '~> 3.0.5'
+
 # Turbolinks makes following links in your web application faster. Read more: https://github.com/rails/turbolinks
 gem 'turbolinks'
 
