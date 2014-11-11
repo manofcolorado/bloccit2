@@ -43,6 +43,18 @@ gem 'figaro', '1.0'
 # Redcarpet provides Mardown capability to projects
 gem 'redcarpet'
 
+# This gem provides a simple and extremely flexible way to upload files from Ruby applications. It works well with Rack based web applications, such as Ruby on Rails.
+gem 'carrierwave'
+
+# A ruby wrapper for ImageMagick or GraphicsMagick command line.
+gem 'mini_magick'
+
+# fog is the Ruby cloud services library, top to bottom:
+# Collections provide a simplified interface, making clouds easier to work with and switch between.
+# Requests allow power users to get the most out of the features of each individual cloud.
+# Mocks make testing and integrating a breeze.
+gem 'fog'
+
 # Turbolinks makes following links in your web application faster. Read more: https://github.com/rails/turbolinks
 gem 'turbolinks'
 
